@@ -1,0 +1,1 @@
+# FOREX strategy parameter selection
