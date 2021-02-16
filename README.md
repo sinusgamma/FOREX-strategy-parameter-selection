@@ -1,4 +1,4 @@
-# FOREX strategy parameter selection
+# FOREX strategy parameter selection with Random Forest
 
 My FOREX trade system and strategy has lots of parameters. Because of the number of parameters, the combinations of the possible test scenarios easily can reach very large numbers. To test all promising scenarios would require a very long time. For example, if I want to change only six parameters, all of them with 10 different numbers gives 1 million combinations, this means 1 million test runs.
 
